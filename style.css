@@ -51,8 +51,8 @@ td {
   text-align: center;
   line-height: 35px; 
   position: absolute;
-  top: 180px;
-  left: 1200px;
+  top: 150px;
+  left: 950px;
   
 }
  #primeiro {  
@@ -212,7 +212,7 @@ td {
     margin: 10px;
     padding-top: 30px;
     padding-bottom: 50px;
-    width: 1500px;  
+    width: 1000px;  
     margin: 0 auto;    
 
  }
