@@ -1,2 +1,2 @@
 # Tabela
- Tabela periocica
+ Tabela periodica
