@@ -19,9 +19,6 @@ body{
     width: 1500px;  
     margin: 0 auto;
 }
-span {
-
-}
 
 h1{
     margin-top: 30px;
@@ -38,6 +35,7 @@ td {
     height: 100px; 
     width: 100px;     
     cursor: pointer;
+   
 } 
 .inv {
     cursor: default;
@@ -135,8 +133,9 @@ td {
     transform:scale(1.5);
     cursor:pointer;
     z-index:2;
-}
+   
 
+}
   
  .inv { 
       cursor: default;
