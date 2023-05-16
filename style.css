@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,400,700');
+
+*{
+	margin:0;
+	padding:0;
+	list-style:none;	
+}
+	
+body{
+  
+    font: 1em sans-serif;
+	background: #374094;
+    color: #363636;  
+    position: relative;  
+    
+          
+}
+.container {
+    width: 1500px;  
+    margin: 0 auto;
+}
+
+h1{
+    margin-top: 30px;
+	color: white;
+	font-size: 40px;
+	font: weight 100px;
+    text-align: center;
+}
+h2 {
+
+}
+ 
+td { 
+    height: 100px; 
+    width: 100px;     
+    cursor: pointer;
+   
+} 
+.inv {
+    cursor: default;
+}
+.legenda {     
+   display: block;  
+   cursor: pointer; 
+  width: 150px; 
+  height: 150px; 
+  background-color: white; 
+  text-align: center;
+  line-height: 35px; 
+  position: absolute;
+  top: 150px;
+  left: 950px;
+  
+}
+ #primeiro {  
+    
+
+ }
+#segunda { 
+    justify-content: center;
+    margin-top: 30px; 
+} 
+ 
+.verdes { 
+    background-color: #5e8d2e; 
+   
+} 
+ 
+.laranjas { 
+    background-color: #fa5b3d; 
+    
+} 
+ 
+.amarelas { 
+    background-color:  orange; 
+   
+} 
+ 
+.rosas { 
+    background-color: #f71bf7; 
+  
+} 
+ 
+.azul { 
+    background-color: #0077ff; 
+    
+} 
+ 
+.azul-2 { 
+    background-color: #497cca; 
+    
+} 
+ 
+.verde-2 { 
+    background-color: #5AE692; 
+   
+} 
+ 
+.azul-3 { 
+    background-color: #90f2ff; 
+    
+} 
+ 
+.azul-4 { 
+    background-color: #00c3fff6; 
+   
+} 
+ 
+.roxo { 
+    background-color: #f7f7f7; 
+   
+}
+
+#titulo {  
+   
+     color: white; 
+     text-align: center; 
+     height: 100px; 
+     width: 100%; 
+     font-family: sans-serif; 
+ } 
+
+ td {   
+     height: 100px; 
+     width: 100px; 
+     text-align-last: center; 
+     font-weight: bolder; 
+    
+ } 
+ td:hover {
+    transition:.2s;
+    transform:scale(1.5);
+    cursor:pointer;
+    z-index:2;
+   
+
+}
+  
+ .inv { 
+      cursor: default;
+     border: white; 
+ } 
+  
+ .verdes { 
+  
+     background-color: #5AE692; ; 
+ } 
+  
+ .azul { 
+  
+     background-color: #047dff; 
+ } 
+  
+ .laranjas { 
+  
+     background-color: #fb8200; 
+ } 
+  
+ .amarelos { 
+  
+     background-color: #fbd100; 
+ }
+ .nao-metal {
+    background-color:#5AE692;
+  }
+
+  
+  .gas-nobre {
+    background-color: #0064cf;
+  }
+  
+  .metal-alcalino {
+    background-color: #fb8200;
+  }
+  .metal-alcalino-terroso {
+    background-color: #fbd100;
+
+ }
+ 
+ .semimetal {
+    background-color: #f71bf7; ;
+  }
+   
+  
+  .halogenio {
+    background-color: #bbbaba;
+  }
+  
+  .outros-metais {
+    background-color: pink;
+  }
+  
+  .metal-transicao {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .lantanideo {
+    background-color: #00c3fff6; 
+  }
+  
+  .actinidio {
+    background-color: #497cca;
+    
+  }
+  
+ footer {    
+    cursor: pointer;    
+    text-align: center;
+    font-size: 20px;    
+    margin: 10px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    width: 1000px;  
+    margin: 0 auto;    
+
+ }
